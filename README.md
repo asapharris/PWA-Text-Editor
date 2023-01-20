@@ -1,6 +1,8 @@
 # PWA Text Editor  ![Project License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
 # asapharris's project
 
+https://youtu.be/E8LRRLoerLM 
+
 ## Description
 A text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
